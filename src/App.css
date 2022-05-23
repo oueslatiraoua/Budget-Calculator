@@ -1,0 +1,15 @@
+Body {
+  background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+}
+.app h4 {
+  margin-bottom: "50px";
+  margin-top: "50px";
+  font-family: "'PT Serif', serif";
+}
